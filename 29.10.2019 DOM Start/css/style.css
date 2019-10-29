@@ -1,0 +1,9 @@
+.default {
+    background: blue;
+    color: white;
+}
+
+.color {
+    background: yellow;
+    color: red;
+}
